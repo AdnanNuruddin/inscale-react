@@ -5,17 +5,17 @@ To Install the dependencies run:
 ```npm install``` or ```yarn install```
 
 To start the app in the development mode run:
-````npm start```
+```npm start```
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
 
 To launche the test runner in the interactive watch mode run:
-### `npm test`
+```npm test```
 
 To builds the app for production to the `build` folder:
-### `npm run build`
+```npm run build```
 
 The `AddCampaigns` function is exposed globally. You can simply open console and run:
 ```javascript
@@ -32,4 +32,3 @@ AddCampaigns([{ "id": 1, "name": "Divavu", "startDate": "9/19/2017", "endDate": 
 ```
 
 The application is currently hosted at (https://react-test-fe2e3.firebaseapp.com/).
-
