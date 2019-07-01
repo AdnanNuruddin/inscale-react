@@ -1,0 +1,47 @@
+.campaign-filters {
+	width: 100%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	overflow: hidden;
+}
+
+.filter-block{
+	width:50%;
+	display:inline-block;
+}
+
+.search-filter {
+	width: 50%;
+}
+
+.search-filter button {
+	width: 21%;
+	background: #6497b1;
+	border: none;
+	height: 37px;
+	color: #fff;
+	border-radius: 5px;
+	border-bottom-left-radius: unset;
+    border-top-left-radius: unset;
+}
+
+.react-datepicker-wrapper{
+	width: 50%;
+}
+
+.filter-block input {
+	padding: 10px 0 10px 10px;
+	border-radius: 5px;
+	border: 1px solid #cbddea;
+}
+
+.search-filter input{
+	width:75%;
+	display:inline-block;
+	border-bottom-right-radius: unset;
+    border-top-right-radius: unset;
+}
+
+.react-datepicker__input-container input {
+	width: 92%;
+}

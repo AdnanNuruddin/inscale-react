@@ -1,0 +1,22 @@
+.not-found h1,h3{
+	color: #011f4b;
+}
+
+.not-found-container{
+	position: absolute;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.not-found-container button{
+	color:white;
+	background-color: #6497b1;
+	padding:5px;
+	border-radius: 5px;
+}

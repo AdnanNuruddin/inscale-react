@@ -1,0 +1,26 @@
+body {
+	margin: 0;
+	font-family: 'Titillium Web', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+h1,h2,h3,h4,h5{
+	font-weight: 300;
+}
+
+button{
+	cursor:pointer;
+}
+
+.text-center{
+	text-align: center !important;
+}
+
+.text-right{
+	text-align: right !important;
+}
+
+.text-left{
+	text-align: left !important;
+}

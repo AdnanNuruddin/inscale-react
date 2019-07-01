@@ -1,0 +1,32 @@
+.campaign-table{
+	width:100%;
+}
+
+.campaign-table th{
+	background-color: #005b96;
+	color:white;
+}
+
+th, td{
+	padding:5px;
+}
+
+.campaign-table .Active{
+    height: 15px;
+    width: 15px;
+    background-color: green;
+    border-radius: 50%;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+.campaign-table .Inactive{
+    height: 15px;
+    width: 15px;
+    background-color: #FF5722;
+    border-radius: 50%;
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 10px;
+}
